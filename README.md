@@ -1,6 +1,6 @@
 # open-dispute
 
-紛争を開始(CSS完全に理解したエディション)
+紛争を開始(CSS完全に理解したエディション) <https://e6nlaq.github.io/open-dispute-css>
 
 ## 変更点
 
